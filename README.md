@@ -1,3 +1,23 @@
+# SDDM Rukia Theme
+
+This theme and repo is a direct copy of `Keyitdev/sddm-astronaut-theme` with my own personal theme preferences. All credit for this repo should go to him. I love his themes and simply wanted to make an edit with my preferences. Also being able to pull and make my own changes is pretty nice.
+
+THANK YOU KEYITDEV!
+
+
+## Main Changes
+
+- Added a rukia themed wallpaper
+- Created and edited a `rukia.conf` file for the rukia theme
+- Edited metadata.desktop for the `rukia` theme
+- Edited the `setup.sh` to feature rukia rather than sddm-astronaut-theme
+
+
+
+# BELOW IS THE UNCHANGED README FROM Keyitdev/sddm-astronaut-theme
+
+---
+
 # sddm-astronaut-theme
 
 ![Stars](https://img.shields.io/github/stars/keyitdev/sddm-astronaut-theme?color=dd864a&labelColor=1b1b25&style=for-the-badge)
